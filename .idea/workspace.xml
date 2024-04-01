@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90779af0-1a78-45ed-8edd-a3f431c9ab41" name="Changes" comment="New Solutions">
-      <change beforePath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P06_FishMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P06_FishMarket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P06_SpeedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P06_SpeedInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P06_WorldSwimmingRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P06_WorldSwimmingRecord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P06_FlowerShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P06_FlowerShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P11_FruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P11_FruitShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P06_OperationsBetweenNumbers2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P06_OperationsBetweenNumbers2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +13,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
@@ -38,7 +50,7 @@
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/AnilAyhan/IdeaProjects/Programming_Basics_Java_SoftUni/src",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,15 +75,50 @@
       <option name="project" value="LOCAL" />
       <updated>1711990384066</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Solutions">
+      <option name="closed" value="true" />
+      <created>1711990793307</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711990793307</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="a56db7b7-b53e-4b94-93f2-57a2eb3c78e4" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+        <entry key="a56db7b7-b53e-4b94-93f2-57a2eb3c78e4">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
