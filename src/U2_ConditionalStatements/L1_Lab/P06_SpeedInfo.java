@@ -2,7 +2,7 @@ package U2_ConditionalStatements.L1_Lab;
 
 import java.util.Scanner;
 
-public class SpeedInfo_06 {
+public class P06_SpeedInfo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package U2_ConditionalStatements.L2_Exercise;
 
 import java.util.Scanner;
 
-public class WorldSwimmingRecord_06 {
+public class P06_WorldSwimmingRecord {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

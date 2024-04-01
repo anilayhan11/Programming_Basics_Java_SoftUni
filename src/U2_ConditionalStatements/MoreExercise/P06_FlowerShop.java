@@ -2,7 +2,7 @@ package U2_ConditionalStatements.MoreExercise;
 
 import java.util.Scanner;
 
-public class FlowerShop_06 {
+public class P06_FlowerShop {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package U1_First_Steps_In_Coding.MoreExercise;
 
 import java.util.Scanner;
 
-public class FishMarket_06 {
+public class P06_FishMarket {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

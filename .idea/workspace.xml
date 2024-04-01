@@ -4,173 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90779af0-1a78-45ed-8edd-a3f431c9ab41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Programming_Basics_Java_SoftUni.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P01_HelloSoftUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P02_Nums1To10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P03_RectangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P04_InchesToCentimeters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P05_GreetingByName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P06_ConcatenateData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P07_ProjectCreation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P08_PetShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L1_Lab/P09_YardGreening.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P01_USDtoBGN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P02_RadiansToDegrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P03_DepositCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P04_VacationBookList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P05_SuppliesForSchool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P06_Repainting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P07_FoodDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P08_BasketballEquipment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/L2_Exercise/P09_FishTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P01_TrapezoidArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P02_TriangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P03_CelsiusToFahrenheit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P04_VegetableMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P05_LectureHall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P06_FishMarket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P07_HousePainting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P08_CircleAreaAndPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P09_WeatherForecastP1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P10_WeatherForecastP2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P01_ExcellentResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P02_GreaterNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P03_EvenOrOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P04_PasswordGuess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P05_Number100to200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P06_SpeedInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P07_AreaOfFigures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P01_SumSeconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P02_BonusScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P03_TimePlus10Minutes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P04_ToyShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P05_GodzillaVsKong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P06_WorldSwimmingRecord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P07_Shopping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P08_LunchBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P01_PipesInPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P02_SleepyTomCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P03_Harvest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P04_TransportPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P05_Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P06_FlowerShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P07_FuelTankPart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P08_FuelTankPart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P01_DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P02_WeekendOrWeekday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P03_AnimalType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P04_PersonalTitles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P05_SmallShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P06_NumberInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P07_WorkingHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P08_CinemaTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P09_FruitOrVegetable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P10_InvalidNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P11_FruitShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P01_Cinema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P02_SummerOutfit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P03_NewHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P04_FishingBoat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P05_Journey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P06_OperationsBetweenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P06_OperationsBetweenNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P07_HotelRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P08_OnTimeForTheExam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P09_SkiTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P01_MatchTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P02_BikeRace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P03_Flowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P04_CarToGo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P05_Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P06_TruckDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P07_SchoolCamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P08_PointOnRectangleBorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P09_NumbersFrom1To10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/MoreExercise/P10_MultiplyBy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P01_NumbersFrom1To10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P02_NumbersNTo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P03_Numbers1ToNOver3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P04_EvenPowersOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P05_CharacterSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P06_VowelsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P07_SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P08_NumberSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P09_LeftAndRightSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L1_Lab/P10_OddAndEvenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P01_NumbersEndingIn7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P02_HalfSumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P03_Histogram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P04_CleverLily.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P05_Salary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P06_Oscars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P07_TrekkingMania.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/L2_Exercise/P08_TennisRanklist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P01_BackToThePast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P02_Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P03_Logistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P04_Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P05_GameOfIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P06_Bills.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P07_FootballLeague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P08_EqualPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P09_Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P10_Clock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U4_ForLoop/MoreExercise/P11_OddEvenPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P01_ReadText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P02_Password.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P03_SumNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P04_Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P05_AccountBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P06_MaxNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P07_MinNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L1_Lab/P08_Graduation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P01_OldBooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P02_ExamPreparation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P03_Vacation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P04_Walking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P05_Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P06_Cake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/L2_Exercise/P07_Moving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/MoreExercise/FromLettersToString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/MoreExercise/P01_Dishwasher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/MoreExercise/P02_ReportSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/MoreExercise/P03_StreamOfLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/MoreExercise/P04_NumbersDividedBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U5_WhileLoop/MoreExercise/P05_AverageNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L1_Lab/P01_Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L1_Lab/P02_MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L1_Lab/P03_Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L1_Lab/P04_SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L1_Lab/P05_Travelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L1_Lab/P06_Building.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L2_Exercise/P01_NumberPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L2_Exercise/P02_EqualSumEvenOddPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L2_Exercise/P03_SumPrimeNonPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L2_Exercise/P04_TrainTheTrainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L2_Exercise/P05_SpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/L2_Exercise/P06_CinemaTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P01_UniquePinCodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P02_LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P03_LuckyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P04_CarNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P05_ChallengeTheWedding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P06_WeddingSeats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P07_SafePasswordsGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P08_SecretDoorsLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P09_SumOfTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P10_Profit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P11_HappyCatParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P12_TheSongOfTheWheels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P13_PrimePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/U6_NestedLoop/MoreExercise/P14_PasswordGenerator.java" afterDir="false" />
+    <list default="true" id="90779af0-1a78-45ed-8edd-a3f431c9ab41" name="Changes" comment="New Solutions">
+      <change beforePath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P06_FishMarket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U1_First_Steps_In_Coding/MoreExercise/P06_FishMarket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P06_SpeedInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L1_Lab/P06_SpeedInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P06_WorldSwimmingRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/L2_Exercise/P06_WorldSwimmingRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P06_FlowerShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U2_ConditionalStatements/MoreExercise/P06_FlowerShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P11_FruitShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P11_FruitShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L1_Lab/P12_TradeCommissions2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P06_OperationsBetweenNumbers2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/U3_ConditionalStatementsAdvanced/L2_Exercise/P06_OperationsBetweenNumbers2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,7 +37,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/AnilAyhan/IdeaProjects/Programming_Basics_Java_SoftUni/src"
+    "last_opened_file_path": "C:/Users/AnilAyhan/IdeaProjects/Programming_Basics_Java_SoftUni/src",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -212,6 +55,15 @@
       <option name="presentableId" value="Default" />
       <updated>1711988062312</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Solutions">
+      <option name="closed" value="true" />
+      <created>1711990384066</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711990384066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,5 +76,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Solutions" />
   </component>
 </project>

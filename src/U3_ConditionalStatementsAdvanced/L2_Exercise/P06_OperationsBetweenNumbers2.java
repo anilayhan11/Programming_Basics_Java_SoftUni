@@ -3,7 +3,7 @@ package U3_ConditionalStatementsAdvanced.L2_Exercise;
 
 import java.util.Scanner;
 
-public class OperationsBetweenNumbers2_06 {
+public class P06_OperationsBetweenNumbers2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
